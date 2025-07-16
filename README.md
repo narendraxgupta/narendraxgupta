@@ -1,55 +1,57 @@
-<h2 align="center">Hey there! I'm Narendra 👋</h2>
+<h1 align="center">Hey 👋, I'm Narendra Gupta</h1>
+<h3 align="center">CSE Student | Passionate Web Developer & Problem Solver 💻</h3>
 
 <p align="center">
-  🎓 CSE Student at MNNIT Allahabad &nbsp; | &nbsp; 💻 Passionate Developer & Problem Solver
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🌱 Currently learning: DSA, System Design, and MERN Stack
-- 🔍 Exploring: Open Source & Competitive Programming
-- 🧠 I love solving real-world problems through code
-- 💬 Ask me about anything tech — happy to help!
+### ✨ About Me
+- 🎓 Final-year CSE student at MNNIT Allahabad  
+- 🌱 Currently exploring MERN Stack, DSA & System Design  
+- 🧠 I love building real-world apps & learning by doing  
+- 📫 Reach me at: **narendraxgupta@gmail.com**  
+- ⚡ Fun fact: **i debug with snacks 🍫**
 
 ---
 
-### 🚀 Tech Stack
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+### 🌐 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/narendraxgupta" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/narendraxgupta" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
 
+---
+
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=narendraxgupta&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendraxgupta&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendraxgupta&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-
-- 🎯 [**Clynzo**](https://github.com/narendraxgupta/clynzo) — Doctor Appointment Portal 🔗 `MERN Stack`
-- 🎥 [**Flixora**](https://github.com/narendraxgupta/flixora) — Movie Ticket Booking App 🎬 `Mongo + Express + React + Node`
-
----
-
-### 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendraxgupta/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/narendraxgupta)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:narendraxgupta@gmail.com)
-
----
-
-<p align="center">
-  ✨ Building, Breaking & Learning — one repo at a time ✨
-</p>
+<p align="center">✨ Code. Learn. Repeat. 🔁</p>
